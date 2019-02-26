@@ -1,2 +1,4 @@
-title: Welcome to my portfolio!
-theme: jekyll-theme-cayman
+title: Test jekyll & AsciiDoc site
+theme: minima
+exclude:
+  - Gemfile
